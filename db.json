@@ -1,0 +1,20 @@
+{
+  "classifications": [
+    { "id": 0, "description": "Sem discurso de ódio" }
+    { "id": 1, "description": "Xenofobia" },
+    { "id": 2, "description": "Conteúdo sexual" },
+    { "id": 3, "description": "Violência" },
+    { "id": 4, "description": "Preconceito" },
+    { "id": 5, "description": "Misógino" }
+  ],
+  "specificTweet": {
+    "tweetId": "1254872987934887938",
+    "tweetTwitterId": "1254872987934887938",
+    "content": "- A Polícia Federal, for força da Lei 9.883/1999 e Decretos 4.386/2002 e 9.881/2019, é parte do Sistema Brasileiro de Inteligência, que alimenta com informações o Presidente da República para tomada de decisões estratégicas."
+  }
+  "randomTweet": {
+    "tweetId": "123",
+    "tweetTwitterId": "123",
+    "content": "Esse é um tweet aleatório 👽🤖👨‍🎓"
+  }
+}
