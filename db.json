@@ -16,5 +16,32 @@
     "tweetId": "123",
     "tweetTwitterId": "123",
     "content": "Esse é um tweet aleatório 👽🤖👨‍🎓"
-  }
+  },
+  "tweet": [
+    {
+      "tweetId": "1254872987934887938",
+      "tweetTwitterId": "1254872987934887938",
+      "content": "- A Polícia Federal, for força da Lei 9.883/1999 e Decretos 4.386/2002 e 9.881/2019, é parte do Sistema Brasileiro de Inteligência, que alimenta com informações o Presidente da República para tomada de decisões estratégicas."
+    },
+    {
+      "tweetId": "1255469442387054594",
+      "tweetTwitterId": "1255469442387054594",
+      "content": "É mto viado"
+    },
+    {
+      "tweetId": "1255379886803427328",
+      "tweetTwitterId": "1255379886803427328",
+      "content": "Que bom, então vai tomar no meio do seu cú\nFuck mong asong babae"
+    },
+    {
+      "tweetId": "1254084014757105664",
+      "tweetTwitterId": "1254084014757105664",
+      "content": "Vejo uma suicidinha com uns 20 anos no máximo."
+    },
+    {
+      "tweetId": "1255355519449141249",
+      "tweetTwitterId": "1255355519449141249",
+      "content": "Bate seu punhetão ae agora fdp.Thumbs up"
+    },
+  ]
 }
